@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/factory_cpp/工厂方法模式/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/factory_test.dir/main.cpp.o -c /root/factory_cpp/工厂方法模式/main.cpp",
+  "file": "/root/factory_cpp/工厂方法模式/main.cpp"
+}
+]

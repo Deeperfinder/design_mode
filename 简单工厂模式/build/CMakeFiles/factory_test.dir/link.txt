@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/factory_test.dir/main.cpp.o  -o factory_test 

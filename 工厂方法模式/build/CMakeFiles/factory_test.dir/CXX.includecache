@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/factory_cpp/工厂方法模式/factory.h
+iostream
+-
+
+/root/factory_cpp/工厂方法模式/main.cpp
+iostream
+-
+factory.h
+/root/factory_cpp/工厂方法模式/factory.h
+

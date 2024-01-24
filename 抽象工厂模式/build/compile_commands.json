@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/factory_cpp/抽象工厂模式/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/factory.dir/main.cpp.o -c /root/factory_cpp/抽象工厂模式/main.cpp",
+  "file": "/root/factory_cpp/抽象工厂模式/main.cpp"
+}
+]

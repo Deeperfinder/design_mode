@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/factory_cpp/抽象工厂模式/factory.cpp
+iostream
+-
+
+/root/factory_cpp/抽象工厂模式/main.cpp
+iostream
+-
+factory.cpp
+/root/factory_cpp/抽象工厂模式/factory.cpp
+

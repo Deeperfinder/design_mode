@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/root/factory_cpp/互斥量/build",
+  "command": "/usr/bin/g++   -g -std=gnu++2a -o CMakeFiles/app.dir/control_stream.cpp.o -c /root/factory_cpp/互斥量/control_stream.cpp",
+  "file": "/root/factory_cpp/互斥量/control_stream.cpp",
+  "output": "CMakeFiles/app.dir/control_stream.cpp.o"
+}
+]

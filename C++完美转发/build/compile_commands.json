@@ -1,7 +1,8 @@
 [
 {
   "directory": "/root/factory_cpp/C++完美转发/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/app.dir/main.cpp.o -c /root/factory_cpp/C++完美转发/main.cpp",
-  "file": "/root/factory_cpp/C++完美转发/main.cpp"
+  "command": "/usr/bin/g++   -g -o CMakeFiles/app.dir/main.cpp.o -c /root/factory_cpp/C++完美转发/main.cpp",
+  "file": "/root/factory_cpp/C++完美转发/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.o"
 }
 ]

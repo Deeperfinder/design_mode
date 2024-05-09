@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/app.dir/control_stream.cpp.o -o app 
